@@ -11,7 +11,7 @@ A NLP system that classifies sentiment in tweets using Hugging Face's BERT model
 | Export Results | CSV generation with confidence scores |
 
 # Sample Output
-![Sentiment Distribution](assets/sentiment_dist.png) *(Example from actual analysis)*
+![Sentiment Distribution](assets/sentiment.png) *(Example from actual analysis)*
 
 # Technical Stack
 - Python 3.10
